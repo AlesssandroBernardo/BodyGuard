@@ -319,10 +319,7 @@ ul{
     text-decoration: none;
     color: black;
 }
-#anexo .extra1 a:hover{
-    color: orange;
-    font-weight: bold;
-}
+
 
 /*Section Contacto*/
 #contacto .container{
