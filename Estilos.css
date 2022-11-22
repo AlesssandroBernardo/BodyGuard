@@ -184,26 +184,7 @@ ul{
     margin-left: -80px;
 }
 
-/*Section servicios*/
-/*#Servicios .container{
-    position: relative;
-    display: inline-block;
-}
-#Servicios .texto1{
-    position: absolute;
-    top: 10px;
-    left: 10%;
-    font-family: Georgia, 'Times New Roman';
-    font-size: 22px;
-    color: rgb(3, 3, 3);
-}
-#Servicios .texto2{
-    position: absolute;
-    top: 80%;
-    right: 10%;
-    font-size: 16px;
-    color: white;
-}*/
+
 #servicios .container img{
     width: 100%;
     margin-right: 10px;
@@ -307,8 +288,8 @@ ul{
 }
 #anexo .extra1 img{
     margin: 10px 10px;
-    width: 70%;
-    height: 80%;
+    width: 60%;
+    height: 70%;
 }
 #anexo .extra1 h3{
     margin: 10px 1px;
