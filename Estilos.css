@@ -107,6 +107,9 @@ ul{
 
 @media (max-width: 720px){
     .inicio{min-height:600 px;
+        .inicio a{
+        font-size:24px;
+        }
 }
 
 }
