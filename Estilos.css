@@ -292,6 +292,11 @@ ul{
     font-size: 40px;
 
 }
+#anexo .extra1 a:hover{
+    color: orange;
+    font-weight: bold;
+}
+
 #anexo .extra{
     width: 90%;
     display: flex;
