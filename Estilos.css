@@ -105,6 +105,11 @@ ul{
     font: bold 18px 'Opens Sans', sans-serif;
 }
 
+@media (max-width: 720px){
+    .inicio{min-height:600 px;
+}
+
+}
 /*  Section Inicio     */
 #Inicio{
     display: block;
