@@ -295,6 +295,7 @@ ul{
 #anexo .extra1 a:hover{
     color: orange;
     font-weight: bold;
+    opacity: 1;
 }
 
 #anexo .extra{
