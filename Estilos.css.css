@@ -308,7 +308,7 @@ ul{
 #anexo .extra1 img{
     margin: 10px 10px;
     width: 40%;
-    height: 80%;
+    height: 60%;
 }
 #anexo .extra1 h3{
     margin: 10px 1px;
@@ -321,6 +321,7 @@ ul{
 }
 #anexo .extra1 a:hover{
     color: orange;
+    opacity: 1;
     font-weight: bold;
 }
 
